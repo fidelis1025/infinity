@@ -1,0 +1,24 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(208, 255, 255);
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.image-container{
+    margin: 1rem 30%;
+}
+
+.image-container img{
+     width: 100%;
+}
